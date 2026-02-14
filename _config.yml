@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: "Jenni's in Nature"
+title: "Jenni in Nature"
 
 # Your name to show in the footer
 author: "Jennifer Hernandez"
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "jherna85@asu.edu"
+  facebook: "jennifer.hernandez.323795"
+  github: "jherna85-pixel"
+  youtube: "c/jenniferhernandez1554"
+  instagram: "yennihxp"
+  linkedin: "jennifer-hernandez-2a5629117"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -65,7 +65,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -93,7 +92,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "nature,exploring,girl,outdoors, hiking, connection"
 
 # --- Colours / background image --- #
 
