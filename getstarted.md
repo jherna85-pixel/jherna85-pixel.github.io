@@ -257,14 +257,15 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
     color: blue; }
 
 .gs-section-02 p{
-    color: light blue; 
-    font-size: 25px;} 
+    color: lightblue; 
+    font-size: 25px;
+    text-align: justify; } 
 
 .gs-section-03 h3 { 
      color: orange; }
 
 .gs-section-03 p {
-     color: coral; 
+     color: tomato; 
      font-size: 20px;
 }
 
