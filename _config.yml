@@ -104,9 +104,7 @@ page-col: "#A6BC38"
 text-col: "#175309"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#175309"
-footer-text-col: "#D19723"
-footer-link-col: "#404040"
+footer-img: "/assets/img/papago_park.jpeg"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
