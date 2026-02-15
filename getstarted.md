@@ -67,15 +67,9 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+
 <div class="gs-section-01"> 
-  
-# only <h3> headers between <div class=gs-section-01> tags
-
-.gs-section-01 h3 { 
-   color: red
-}
-
-
+ 
 {{
 
 ### 1. Fork this project
@@ -87,13 +81,6 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 </div>
 
 <div class="gs-section-02"> 
-  
-# only <h3> headers between <div class=gs-section-02> tags
-
-.gs-section-02 h3 { 
-   color: blue
-}
-
 
 {{
 ### 2. Rename the project to `<yourusername>.github.io`
@@ -262,3 +249,15 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+# only <h3> headers between <div class=gs-section-01> tags
+
+.gs-section-01 h3 { 
+   color: red
+}
+
+# only <h3> headers between <div class=gs-section-02> tags
+
+.gs-section-02 h3 { 
+   color: blue
+}
