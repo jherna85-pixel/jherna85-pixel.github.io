@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: "Jenni in Nature"
+title: "All about Jenni"
 
 # Short description of your site
-description: "A blog of Jenni's adventures outdoors in the state of Arizona." 
+description: "A blog of Jenni's adventures in the state of Arizona." 
 
 # Your name to show in the footer
 author: "Jennifer Hernandez"
@@ -93,7 +93,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "nature,exploring,girl,outdoors, hiking, connection"
+keywords: "nature, arizona, girl, outdoors, connection, fun"
 
 # --- Colours / background image --- #
 
