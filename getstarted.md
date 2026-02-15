@@ -72,7 +72,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
  
 {{
 
-### 1. Fork this project
+<### 1. Fork this project>
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
@@ -250,14 +250,23 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
-# only <h3> headers between <div class=gs-section-01> tags
+
+<style>
 
 .gs-section-01 h3 { 
-   color: red
-}
+     color: red; }
 
-# only <h3> headers between <div class=gs-section-02> tags
+.gs-section-01 p {
+     font-size: 30px; }
+
+
 
 .gs-section-02 h3 { 
-   color: blue
+   color: blue;
 }
+ 
+body {
+  background: yellow !important;
+}
+</style>
+
