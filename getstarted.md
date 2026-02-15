@@ -260,16 +260,22 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: red; }
 
 .gs-section-01 p {
+     color: pink;
      font-size: 30px; }
 
-
-
 .gs-section-02 h3 { 
-   color: blue;
-}
- 
-body {
-  background: yellow !important;
-}
-</style>
+    color: blue; }
 
+.gs-section-02 p{
+    color: light blue; 
+    font-size: 25px;} 
+
+.gs-section-03 h3 { 
+     color: orange; }
+
+.gs-section-03 p {
+     color: coral; 
+     font-size: 20px;
+}
+
+</style>
