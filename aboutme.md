@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Jenni Hernandez, I have the following qualities:
 
-- I love the outdoors
-- I'm an extremely good story teller. 
+- I love the outdoors. 
+- I'm an extremely good story teller.
 
 What else do you need?
 
